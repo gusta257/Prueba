@@ -23,5 +23,8 @@ public class PruebaGit {
     public String getNombre(){
         return nombre;
     }
+    public int getValor(){
+        return valor;
+    }
     
 }
